@@ -21,7 +21,7 @@ class ViewController: UIViewController {
     var imageIndex = 0
     var timer: Timer!
     var timer_sec:Float = 0
-    let images = [UIImage(named: "a"),UIImage(named: "b"),UIImage(named: "c")]
+    let images = [UIImage(named: "a.jpeg"),UIImage(named: "b.jpg"),UIImage(named: "c.jpg")]
     override func viewDidLoad() {
         super.viewDidLoad()
         
